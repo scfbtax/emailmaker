@@ -1,0 +1,10 @@
+C:\Users\SeanChoi\Documents\GitHub\rustlearning\projects\emailmaker1\target\release\deps\libanstyle_wincon-f53ed8005c2fdb98.rmeta: C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\SeanChoi\Documents\GitHub\rustlearning\projects\emailmaker1\target\release\deps\libanstyle_wincon-f53ed8005c2fdb98.rlib: C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\SeanChoi\Documents\GitHub\rustlearning\projects\emailmaker1\target\release\deps\anstyle_wincon-f53ed8005c2fdb98.d: C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs:
+C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs:
+C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs:
+C:\Users\SeanChoi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs:

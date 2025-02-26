@@ -1,0 +1,10 @@
+Subject: Things – {Property Name}
+Good morning, {Name},
+
+Hi, this is a sample email that can be formatted accordingly.
+
+Please read the entire README file.
+
+Sincerely,
+
+SCFBTAX
