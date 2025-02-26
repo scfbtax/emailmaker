@@ -8,4 +8,4 @@ Name Logic:
 The program currently recognizes all columns that have the word name on them. It 
 is advised to keep the formatting to the one in the example. Name, for the first name, Last Name for the last name in the case you have them separated. If they are all in one column, then proceed with the column title "name".
 
-If there are any errors or bugs please reach out to me. The program can be downloaded by going to release and then downloading the emailmaker.exe
+If there are any errors or bugs please reach out to me. The program can be downloaded by going to release on the right and then clicking on the emailmaker.exe.
